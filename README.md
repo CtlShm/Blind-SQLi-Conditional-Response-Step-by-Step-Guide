@@ -43,3 +43,6 @@ Go to Settings > Grep - Match. Click Clear, then Add the string: Welcome back. T
 
 STEP 10: Execution and Reconstruction
 Click Start Attack. In the results window, click the "Welcome back" column header to sort by successful hits. Match each character from Payload 2 with its position in Payload 1. Assemble all 20 characters and log in as administrator to solve the lab.
+
+
+`#CyberSecurity` `#PenetrationTesting` `#SQLi` `#BurpSuite` `#EthicalHacking`
